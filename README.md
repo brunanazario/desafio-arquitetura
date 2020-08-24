@@ -84,4 +84,4 @@ Desenvolveria uma única interface para ambas as visões, utilizando basicamente
 Sobre as API's é possível fazer o uso do [localstack](https://localstack.cloud/) que fornece uma estrutura para simular o ambiente AWS. E isso facilita o desenvolvimento, e testes locais.
 Utilizando o PostgreSql é possivel utilizar o [liquibase](https://www.liquibase.org/), para rastrear, gerenciar a aplicar alterações na estrutura do bando de dados.
 Também sugiro fazer uso do [docker-compose](https://docs.docker.com/compose/), onde todos os serviços utilizados pelas apis podem ser configurados.
-Uso do Gitlab CI/CD, configurando o pipeline para publicação, entre outras vantagens.
+Uso do [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/), configurando o pipeline para publicação, entre outras vantagens.
